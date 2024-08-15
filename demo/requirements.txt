@@ -1,0 +1,8 @@
+torchtext===0.6.0
+spacy==3.5.3
+pyvi 
+matplotlib==3.7.1
+numpy==1.22.4
+pandas==1.5.3
+streamlit
+pyngrok
